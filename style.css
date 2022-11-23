@@ -80,7 +80,7 @@ header .nav a:hover {
 
 
 #background {
-	background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)), url("assets/img/slider_2.webp");
+	background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)), url("./assets/img/slider_2.webp");
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -509,7 +509,7 @@ del{
 
 }
 .introduce .video{
-	background-image: url("/assets/img/bg-play.webp");
+	background-image: url("./assets/img/bg-play.webp");
 	background-size: cover;
 	background-position: center;
 	height: 400px;
@@ -656,7 +656,7 @@ del{
 /* CSS information */
 .information{
 	height: 500px;
-	background-image: url("assets/img/banner5.webp");
+	background-image: url("./assets/img/banner5.webp");
 }
 .information .container h3{
 	text-align: center;
